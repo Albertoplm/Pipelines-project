@@ -4,7 +4,7 @@
 
 ## Is Elon Musk that influential? 
 
-In this project I have join two databases one from yahoo finance with cryptocurrency information and othe one with the tweets of Elon Musk, **the aim of this project it´s to check if the increased on the price of cryptocurrencies are related with the tweets of Elon Musk, and of course to now more about the evolution on this market in the last months.**
+In this project I have joined two databases one from yahoo finance with cryptocurrency information and othe one with the tweets of Elon Musk, **the aim of this project it´s to check if the increased on the price of cryptocurrencies are related with the tweets of Elon Musk, and of course to know more about the evolution on this market in the last months.**
 
 As I was saying I create a database with the information of yahoo finance about cryptocurrencies, to get this information I used the method of web scrapping, so I was abled to create a full table compiling this information. On the other hand I download a database with the tweets historical data of Elon Musk here you can find the url: (https://www.kaggle.com/ayhmrba/elon-musk-tweets-2010-2021)
 
