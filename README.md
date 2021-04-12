@@ -15,7 +15,7 @@ To elaborate and clean the databases I have used some really usefull libraries:
 - Datetime: https://www.php.net/manual/es/class.datetime.php
 - Re: https://docs.python.org/3/library/re.html
 
-Note: In the repo you will find one .py that creates the final table (the one with the yahoo finance and the tweets information), two different Jupiters, one with the elaborating process of the database and the other one with the Visualization process. Also you can find the data (.csv) and the images.
+Note: In the repo you will find Creating_final_table.py that creates the final table (the one with the yahoo finance and the tweets information), five different Jupiters, Cleaning_tweets_final.ipynb(cleans the tweets dataset), Join_tables.ipynb(Join both tables, Tweets and Yahoo Finance), WebScrapping.ipynb(creates a database based on Yahoo Finance), Visualization.ipynb(Creates all the graphs for better understanding) . Also you can find the data (.csv) and the images.
 
 The final version of the database is composed of:
 
