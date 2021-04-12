@@ -28,3 +28,8 @@ The final version of the database is composed of (with a total sample of xxxx ca
    - CRYPTO: (x)
    - TWEET: (x)
    - KEY_TWEET: (x)
+   
+   
+### Market evolution
+
+![Crypto_all](https://github.com/Albertoplm/Pipelines-project/blob/main/images/Crypto_all.svg)
