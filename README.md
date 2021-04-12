@@ -33,3 +33,11 @@ The final version of the database is composed of (with a total sample of xxxx ca
 ### Market evolution
 
 ![Crypto_all](https://github.com/Albertoplm/Pipelines-project/blob/main/images/Crypto_all.svg)
+
+### Market VS Elon Musk (02-03)
+
+![Crypto_all_02-03](https://github.com/Albertoplm/Pipelines-project/blob/main/images/Crypto_all_02-03.svg)
+
+### Market VS Elon Musk (03-04)
+
+![Crypto_all_03-04](https://github.com/Albertoplm/Pipelines-project/blob/main/images/Crypto_all_03-04.svg)
